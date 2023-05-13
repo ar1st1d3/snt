@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(31, 30, 30, 0.932);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    text-align: center;
+    color: red;
+    margin-top: 10px;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: coral;
+}
+.contenair{
+    display: flex;
+}
+.t1{
+    flex : 1;
+}
+.img1{
+    width: 300px;
+}
+table, td{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0 auto;
+}
+.hyperliens{
+    color :rgb(255, 255, 255)
+}
